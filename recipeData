@@ -1,0 +1,53 @@
+ [
+
+    {
+        "url": "https://www.vegrecipesofindia.com/wp-content/uploads/2016/07/pongal-recipe-breakfast-recipes.jpg",
+        "name":"Pongal", 
+        "ingredients": [
+            "1 Cup Rice",
+            "1/2 Cup Yellow moong dal",
+            "1 tsp Black pepper",
+            "1 Green chilli",
+            "1 Ginger",
+            "1 tsp Cumin seeds",
+            "4 Cup Curry leaves water",
+            "To taste Cashew nuts",
+            "200 Gram Ghee",
+            "To taste Salt"],
+        "class":'c'
+    },
+    {
+        "url": "https://www.ndtv.com/cooks/images/Radha%20Ballavi%20%28Stuffed%20Puri%29.jpg", 
+        "name":"Poori",
+        "ingredients": [
+            "250g atta",
+            "250ml oil"
+        ],
+        "class":'c'
+    },
+    {
+        "url":"https://www.tarladalal.com/members/9306/big/big_tomato_poha,_indian_breakfast_recipe-13440.jpg?size=696X905",
+        "name":"Poha",
+        "ingredients": [
+            "2-3 cups (when dry) (thick) Poha",
+            "A pinch asafoetida",
+            "1 teaspoon mustard seeds",
+            "1-2 green chilies",
+            "1 onion"
+        ],
+        "class":'c'
+    },
+    {
+        "url":"https://i1.wp.com/kalimirchbysmita.com/wp-content/uploads/2017/10/Idli-03.jpg",
+        "name":"Idly",
+        "ingredients":  [
+            "4 cups of Par boiled Rice of short grain variety",
+            "1 cup white urad dal (black gram, skinless)",
+            "2 teaspoons non-iodised salt",
+            "1 teaspoon fenugreek seeds (methi)",
+            "4 cups water for soaking rice and urad dal",
+            "2 cups chlorine-free water for fermenting"
+        ],
+        "class":'c'
+    }
+];
