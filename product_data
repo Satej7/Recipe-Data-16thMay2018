@@ -1,8 +1,5 @@
 {
-    "product": [
-
         {"id":"1","name":"duster","price":"17"},
         {"id":"2","name":"pencil","price":"8"},
         {"id":"3","name":"folder","price":"10"}
-    ]
 }
